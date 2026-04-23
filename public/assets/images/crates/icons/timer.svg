@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150"
+   height="150"
+   viewBox="0 0 39.687515 39.687501"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="timer.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="3.0855962"
+     inkscape:cx="66.437727"
+     inkscape:cy="93.336904"
+     inkscape:window-width="2240"
+     inkscape:window-height="1294"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath26008">
+      <path
+         d="M 0,6310.195 H 1657 V 0 H 0 Z"
+         id="path26006" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g21030"
+       transform="matrix(0.57515529,0,0,-0.57515529,6.2795752,6.2795752)">
+      <path
+         d="m 0,0 c -6.035,-6.037 -9.768,-14.375 -9.768,-23.583 0,-18.419 14.932,-33.352 33.352,-33.352 18.419,0 33.351,14.933 33.351,33.352 0,17.968 -14.221,32.578 -32.017,33.284 V 9.768 H 23.584 22.25 V -8.909 h 1.334 1.334 V 7.032 c 16.298,-0.706 29.349,-14.148 29.349,-30.615 0,-16.919 -13.765,-30.684 -30.683,-30.684 -16.919,0 -30.684,13.765 -30.684,30.684 0,8.457 3.442,16.128 8.997,21.686 z"
+         style="fill:#31b2ba;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path21032" />
+    </g>
+    <g
+       id="g21034"
+       transform="matrix(0.57515529,0,0,-0.57515529,21.47121,21.471153)">
+      <path
+         d="m 0,0 c 1.564,1.563 1.564,4.096 0,5.659 -1.563,1.564 -18.865,13.208 -18.865,13.208 0,0 11.642,-17.304 13.206,-18.867 1.563,-1.563 4.096,-1.563 5.659,0"
+         style="fill:#31b2ba;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path21036" />
+    </g>
+  </g>
+</svg>
